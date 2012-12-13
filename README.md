@@ -24,3 +24,5 @@ Regularly backup a cloud foundry service to a cloud storage provider of your cho
   ``
 
 
+NOTE: Currently, this only supports MySQL. I'm busy working on the others!
+
